@@ -1,0 +1,5 @@
+{
+  "name": "christmas-aurora",
+  "owner": { "name": "nic-d17" },
+  "plugins": [{ "name": "christmas-aurora", "source": "./" }]
+}
